@@ -13,11 +13,11 @@
 #     Number -=1
 
 
-# i = 1
-# n = int (input("enter your number :"))
-# while i <=10:
-#     print (n* i)
-#     i += 1
+ i = 1
+ n = int (input("enter your number :"))
+ while i <=10:
+     print (n* i)
+     i += 1
 
 # nums = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 # ind = 0
